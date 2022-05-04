@@ -1,0 +1,14 @@
+.main {
+    margin: auto;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+.canvas {
+    margin: auto;
+}
+#joyContain {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
