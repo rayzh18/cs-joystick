@@ -7,8 +7,13 @@
 .canvas {
     margin: auto;
 }
-#joyContain {
+#joyContain1, #joyContain2 {
     width: 200px;
     height: 200px;
     margin: auto;
+}
+.controller-contain {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
 }
